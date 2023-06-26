@@ -1,0 +1,9 @@
+.about-me-div{
+    border: 1px solid black;
+    padding: 5%;
+}
+
+.about-me{
+    white-space: pre-wrap;
+    font-size: 1.3em;
+}
