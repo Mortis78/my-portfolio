@@ -24,7 +24,10 @@ export const LandingPage = () => {
             <br/>I am excited to bring my expertise, creativity, and life experiences to collaborate on boundary-pushing projects. Through technology, I aspire to make a positive impact on the world we live in. Let's create remarkable digital experiences together!"
             </p>
         </div>
-       
+        <div className="contact-info">
+            
+
+        </div>
 
 
     </div>

@@ -6,4 +6,6 @@
 .about-me{
     white-space: pre-wrap;
     font-size: 1.3em;
+    line-height: 1.3;
+    letter-spacing: 0.3px;
 }
