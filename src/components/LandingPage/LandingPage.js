@@ -8,7 +8,7 @@ export const LandingPage = () => {
     return(
     <main>
         <section className="about-me-section">
-           <h1>John Ammon - Softwere Developer</h1>  <br/>
+          
             <p className="about-me">
                 <br/> Hey there! I'm John, a passionate front-end developer with a creative edge. I'm a proud graduate of the Turing School of Software & Design, where I honed my skills and fostered a deep love for web development.
                 
