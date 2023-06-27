@@ -44,6 +44,11 @@ export const LandingPage = () => {
                     Technologies used:  React - TypeScript - CSS - HTML - RESTful API - GitHub - Cypress
                     </em>
                     </p>
+                    <span>
+                    <a href="https://github.com/Dude-Where-s-the-FoodTruck/fe-Dude-Wheres-the-FoodTruck#readme-top" target="_blank">GitHub ReadMe</a><br/>
+
+                    <a href="https://fe-dude-wheres-the-food-truck.vercel.app" target="_blank">Dude where's The FoodTruck</a>
+                    </span>
                 </div>
             </div> 
         </section>
