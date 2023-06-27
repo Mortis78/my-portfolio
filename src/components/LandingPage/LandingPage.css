@@ -1,11 +1,23 @@
-.about-me-div{
-    border: 1px solid black;
-    padding: 5%;
+main{
+    padding: 2%;
+    margin-bottom: 5%;
 }
+
 
 .about-me{
     white-space: pre-wrap;
     font-size: 1.3em;
     line-height: 1.3;
     letter-spacing: 0.3px;
+}
+
+.project-section{
+    white-space: pre-wrap;
+    font-size: 1.3em;
+    line-height: 1.3;
+    letter-spacing: 0.3px;
+}
+.imgs{
+    width: 55vw;
+    height: 55vh;
 }
