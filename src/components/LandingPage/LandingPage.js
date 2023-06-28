@@ -32,26 +32,23 @@ export const LandingPage = () => {
             <div className="projects-div">
                 <b>Dude, Where's the FoodTruck</b>
                 <p>Dude, Where's the Food Truck? is a web app where users can look up the available food trucks in a given area. As a user, when choosing a food truck, you can view where the food trucks will be on a given date, through a list of displayed events.</p>
-                <div>
                 <img className="imgs" src={foodTruckUser} alt="foodTruckUserView"/>
-                </div>
-                <div>
-                    <p> As the owner of a food truck, you can add and edit events and your trucks's info. All 'events' visible are created by food truck owners.</p>
-                    <img className="imgs" src={foodTruckOwner} alt="foodTruckOwnerView"/>
-                    <p>This is a multi-page UI that allows users or owners to view and update food trucks. 
+                
+                <p> As the owner of a food truck, you can add and  edit events and your trucks's info. All 'events' visible are created by food truck owners.</p>
+                <img className="imgs" src={foodTruckOwner} alt="foodTruckOwnerView"/>
+                <p>This is a multi-page UI that allows users or owners to view and update food trucks. 
                     This project was a collaboration between a dedicated Front End and back end teams.
-                    <br/>
-                    <br/>
-                    <em>
+                <br/>
+                <br/>
+                <em>
                     Technologies used:  React - TypeScript - CSS - HTML - RESTful API - GitHub - Cypress
-                    </em>
-                    </p>
-                    <span>
+                </em>
+                </p>
+                <span>
                     <a href="https://github.com/Dude-Where-s-the-FoodTruck/fe-Dude-Wheres-the-FoodTruck#readme-top" target="_blank">GitHub ReadMe</a><br/>
                     <a href="https://fe-dude-wheres-the-food-truck.vercel.app" target="_blank">Dude where's The FoodTruck</a>
-                    </span>
-                </div>
-            </div> 
+                </span>
+            </div>
             <div>
                 <b>Shelf Life</b>
                 <p>This App is a book recomendation app where you are able to look at a database of books referred by the Creators and add the book to your favorites based on your interest and the recomendation! Further more, you are able to search the New York Times top 100 best sellers and add your recommendation to the recommendation database.</p>
