@@ -1,9 +1,20 @@
 import React from "react";
+import './Header.css'
+import trees from '../../imgs/trees.jpg'
+import clover from '../../imgs/clover.jpg'
+import grays from '../../imgs/grays.jpg'
 
 
 export const Header = () => {
     return(
-        <div>
+        <section className="header-imgs">
+            <div>
+            <img className="imgs" src={trees}  alt="trees"/>
+            <img className="imgs" src={grays}  alt="grays"/>
+            <img className="imgs" src={clover}  alt="clover"/>
+
+            </div>
+            <div>   
             <h1>John Ammon - Software Engineer </h1>
             <p>Denver, CO - ammonj78@gmail.com - 720-312-3776 </p>
             <em>
@@ -14,6 +25,8 @@ export const Header = () => {
             
             <a href="https://instagram.com/mistermortis78?igshid=ZDc4ODBmNjlmNQ==" target="_blank"> / Instagram</a>
             </em>
-        </div>
+            </div>
+
+        </section>
     )
 }

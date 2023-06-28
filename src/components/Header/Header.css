@@ -1,0 +1,13 @@
+.imgs{
+    width: 25vw;
+    height: 35vh;
+}
+
+.header{
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: stretch;
+	align-content: stretch;
+}
